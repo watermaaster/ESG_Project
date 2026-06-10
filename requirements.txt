@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 plotly
-tensorflow
 scikit-learn
+tensorflow-cpu==2.15.0
